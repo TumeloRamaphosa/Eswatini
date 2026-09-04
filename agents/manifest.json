@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "environmentId": "SGM-ESWATINI-KEENAN-01",
+  "buzzGroupId": "90bbcbba-9a1e-4b9a-9442-b4227ef16421",
+  "agents": [
+    {"id": "country-chief", "name": "Country Chief", "role": "Lead orchestration and executive reporting", "lead": true},
+    {"id": "business-ghost", "name": "Eswatini Business Ghost", "role": "Institutional memory, context, and continuity"},
+    {"id": "mining", "name": "Mining Agent", "role": "Mining opportunities and artisanal-miner modernisation"},
+    {"id": "government-localisation", "name": "Government & Localisation Agent", "role": "Public-sector stakeholders, localisation, and policy"},
+    {"id": "infrastructure", "name": "Data Centre & Infrastructure Agent", "role": "Digital and physical infrastructure opportunities"},
+    {"id": "agriculture-drones", "name": "Agriculture & Drone Agent", "role": "Agriculture, mapping, monitoring, and drone services"},
+    {"id": "telecom", "name": "Telecom Agent", "role": "Telecommunications research and feasibility"},
+    {"id": "commercial", "name": "Commercial Agent", "role": "Partners, proposals, pipeline, and development finance"},
+    {"id": "research", "name": "Research Agent", "role": "Evidence, sources, market intelligence, and confidence"},
+    {"id": "fde", "name": "Forward-Deployed Engineer", "role": "Integrations, prototypes, runtime, and deployment readiness"},
+    {"id": "risk", "name": "Risk & Compliance Agent", "role": "Risk register, regulation, approvals, and safety controls"}
+  ]
+}
+
