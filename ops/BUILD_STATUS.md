@@ -1,10 +1,12 @@
 # Eswatini OS Build Status
 
-Last updated: 2026-09-04
+Last updated: 2026-09-09
 
 ## Overall
 
 Status: BOOTSTRAP
+Plan owner: Rio
+Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
 
 ## Working
 
@@ -18,6 +20,8 @@ Status: BOOTSTRAP
 
 - Prior strategy context recovered from the Keenan Schofield Eswatini conversation
 - Source proposals are known but not yet copied into this repository
+- Daily routine written (`ops/DAILY_ROUTINE.md`)
+- Two-week bootstrap plan written (`docs/BOOTSTRAP_PLAN.md`)
 
 ## Missing
 
@@ -39,9 +43,11 @@ Status: BOOTSTRAP
 
 | Priority | Work item | Owner | Status | Evidence |
 | --- | --- | --- | --- | --- |
-| P0 | Inventory existing Buzz agents for the group | Unassigned | Not started | |
-| P0 | Import and catalogue Eswatini strategy sources | Unassigned | Not started | |
-| P0 | Build country dashboard shell and map | Unassigned | Not started | |
+| P0 | Inventory existing Buzz agents for the group | Unassigned | Blocked (no Buzz API) | |
+| P0 | Import and catalogue Eswatini strategy sources | Rio | Starts Thu 10 Sep | |
+| P0 | Prospect tracker with qualification gates | Rio | Starts Sat 12 Sep | |
+| P0 | Confirm or kill 28 Sep–3 Oct travel window | Tumelo / Keenan | Decision due Mon 21 Sep | |
+| P0 | Build country dashboard shell and map | Unassigned | Not this fortnight | |
 | P1 | Implement event log and notification router | Unassigned | Not started | |
 | P1 | Add persistent knowledge graph | Unassigned | Not started | |
 | P1 | Prove one cross-agent workflow | Unassigned | Not started | |

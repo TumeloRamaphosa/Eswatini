@@ -28,7 +28,10 @@ agent activity, decisions requiring approval, notifications, and runtime health.
 
 - `docs/PROJECT_SCOPE.md` - authoritative programme scope and boundaries
 - `docs/ARCHITECTURE.md` - product and runtime architecture
+- `docs/BOOTSTRAP_PLAN.md` - two-week qualify-and-specify plan (10–23 Sep 2026)
 - `agents/manifest.json` - initial country agent roster
+- `ops/DAILY_ROUTINE.md` - weekday operating rhythm
+- `ops/daily-log-template.md` - copy into `ops/logs/YYYY-MM-DD.md`
 - `ops/NOTIFICATIONS.md` - mandatory event and notification contract
 - `ops/BUILD_STATUS.md` - shared delivery status maintained by all agents
 - `AGENTS.md` - working rules for every coding or operating agent
