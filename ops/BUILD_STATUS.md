@@ -1,12 +1,28 @@
 # Eswatini OS Build Status
 
-Last updated: 2026-09-09
+Last updated: 2026-09-18
 
 ## Overall
 
 Status: BOOTSTRAP
 Plan owner: Rio
 Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
+
+## Planning update: 18 September 2026
+
+- Planning owner for this revision: Codex, at the user's request.
+- Consolidated reference: `docs/AFRICA-GOOGLE-OPERATING-PLAN.md`.
+- Completed: public-safe publishing boundaries, Google Cloud/Workspace settings,
+  client VM provisioning sequence, connection acceptance criteria and slide outline.
+- Read-only cloud inventory completed; private identifiers and host details are
+  excluded from this public repository.
+- Pending: client/project/budget selection, costed infrastructure implementation,
+  one pilot VM and an end-to-end workflow test.
+- No cloud resources, permissions or agent integrations were changed by this revision.
+- This updates the hosting planning direction to Google Cloud, with Cloudflare
+  proposed for access. The older Orgo manifest item remains optional.
+- Dashboard and Buzz delivery are not verified. The result is a repository plan,
+  not completion of the programme's operational definition of done.
 
 ## Working
 
@@ -52,4 +68,3 @@ Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
 | P1 | Add persistent knowledge graph | Unassigned | Not started | |
 | P1 | Prove one cross-agent workflow | Unassigned | Not started | |
 | P2 | Prepare Orgo deployment manifest | Unassigned | Not started | |
-

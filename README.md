@@ -26,6 +26,7 @@ agent activity, decisions requiring approval, notifications, and runtime health.
 
 ## Repository map
 
+- `docs/AFRICA-GOOGLE-OPERATING-PLAN.md` - consolidated public-safe plan, Google settings, client VM sequence and leadership slide outline
 - `docs/PROJECT_SCOPE.md` - authoritative programme scope and boundaries
 - `docs/ARCHITECTURE.md` - product and runtime architecture
 - `docs/BOOTSTRAP_PLAN.md` - two-week qualify-and-specify plan (10–23 Sep 2026)
@@ -47,7 +48,11 @@ this repository.
 
 ## Current phase
 
+The [Google operating plan](docs/AFRICA-GOOGLE-OPERATING-PLAN.md) records the
+proposed Google Cloud deployment sequence and publication boundaries. It is
+planning documentation; it does not indicate that client VMs or connected
+country agents have been deployed.
+
 Bootstrap. The Buzz group should inventory existing assets, preserve working
 components, build the country dashboard, connect agents, and prove one complete
 workflow before cloud deployment.
-
