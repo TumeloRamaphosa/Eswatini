@@ -14,6 +14,12 @@ Each client also receives a private Google Drive folder and a private GitHub
 repository. These systems have different jobs and must not be treated as one
 shared storage bucket.
 
+Paperclip is the proposed cross-client factory control plane. CUA and Orgo are
+execution computers; Rome is an optional workspace/application layer under
+evaluation. Their responsibilities and the integrations with Notion, Linear,
+ClickUp, Asana, Slack, and email are defined in
+`docs/SOFTWARE_FACTORY_PLAN.md`.
+
 ## What each component does
 
 | Component | Responsibility | Must not contain |

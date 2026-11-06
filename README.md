@@ -30,6 +30,7 @@ agent activity, decisions requiring approval, notifications, and runtime health.
 - `docs/STRATEGY.md` - current November 2026 country strategy and execution reset
 - `docs/SOURCE_REGISTER.md` - source provenance and evidence status
 - `docs/DEPLOYMENT_PLAN.md` - client site, Orgo, Cloudflare, Buzz, Drive and GitHub architecture
+- `docs/SOFTWARE_FACTORY_PLAN.md` - Paperclip control plane, CUA/Orgo execution, Rome evaluation and tool integration rules
 - `docs/ARCHITECTURE.md` - product and runtime architecture
 - `docs/BOOTSTRAP_PLAN.md` - two-week qualify-and-specify plan (10–23 Sep 2026)
 - `agents/manifest.json` - initial country agent roster
@@ -54,4 +55,8 @@ Validation reset. The September deployment schedules were not verified as
 completed. The immediate objective is to qualify one paid discovery sponsor,
 prove one governed agent workflow in staging, and package a 60-day pilot before
 any production or physical-infrastructure commitment.
+
+The immediate technical proof is one synthetic specification-to-pull-request
+workflow through the proposed Software Factory control plane. It does not
+authorise a production client launch.
 

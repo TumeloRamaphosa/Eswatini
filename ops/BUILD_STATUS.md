@@ -26,6 +26,7 @@ Current plan: `docs/STRATEGY.md` (6 Nov–5 Dec 2026)
 - November strategy reset written (`docs/STRATEGY.md`)
 - Source provenance register written (`docs/SOURCE_REGISTER.md`)
 - Client deployment architecture written (`docs/DEPLOYMENT_PLAN.md`)
+- Software Factory control-plane and integration plan written (`docs/SOFTWARE_FACTORY_PLAN.md`)
 
 ## Missing
 
@@ -58,6 +59,9 @@ Current plan: `docs/STRATEGY.md` (6 Nov–5 Dec 2026)
 | P1 | Inventory and verify Buzz agent identities | FDE | Blocked (no verified API/auth) | Connection test |
 | P1 | Verify Buzz protocol and exact group permissions | FDE | Blocked by API/auth documentation | Protocol test |
 | P1 | Deploy governed Orgo staging workspace | FDE / Risk | Not started | Acceptance evidence |
+| P1 | Deploy Paperclip staging control plane and import Eswatini queue | FDE / Risk | Not started | Factory acceptance record |
+| P1 | Run synthetic spec-to-PR factory workflow | Product / FDE | Blocked by staging control plane | Task, PR, tests, approval log |
+| P1 | Decide CUA/Orgo workload split and Rome evaluation gate | Architecture | Not started | Architecture decision record |
 | P1 | Prove one cross-agent workflow | FDE / Agent lead | Not started | Recorded workflow + audit log |
 | P1 | Complete POPIA and security pack | Risk | Not started | Approved pack |
 | P2 | Build client dashboard after workflow proof | Product / FDE | Not started | Tested dashboard |
