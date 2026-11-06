@@ -4,7 +4,12 @@
 
 Build a dedicated, locally testable operating environment for Keenan and the
 Studex Eswatini programme. It must later be deployable as
-`SGM-ESWATINI-KEENAN-01` without redesigning the system.
+`SGM-ESWATINI-KEENAN-01` without redesigning the system. The current commercial
+goal is one paid discovery engagement leading to a governed 60-day pilot, not a
+date-driven national infrastructure launch.
+
+The current strategic plan is `docs/STRATEGY.md`. Where older schedules or
+commercial assumptions conflict with it, the strategy document takes precedence.
 
 ## Core operating areas
 

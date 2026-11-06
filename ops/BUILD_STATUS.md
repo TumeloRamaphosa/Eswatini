@@ -1,12 +1,13 @@
 # Eswatini OS Build Status
 
-Last updated: 2026-09-09
+Last updated: 2026-11-06
 
 ## Overall
 
-Status: BOOTSTRAP
-Plan owner: Rio
-Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
+Status: VALIDATION RESET
+Decision owner: Tumelo
+Field lead: Keenan (reconfirmation required)
+Current plan: `docs/STRATEGY.md` (6 Nov–5 Dec 2026)
 
 ## Working
 
@@ -22,6 +23,9 @@ Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
 - Source proposals are known but not yet copied into this repository
 - Daily routine written (`ops/DAILY_ROUTINE.md`)
 - Two-week bootstrap plan written (`docs/BOOTSTRAP_PLAN.md`)
+- November strategy reset written (`docs/STRATEGY.md`)
+- Source provenance register written (`docs/SOURCE_REGISTER.md`)
+- Client deployment architecture written (`docs/DEPLOYMENT_PLAN.md`)
 
 ## Missing
 
@@ -32,6 +36,9 @@ Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
 - Runtime heartbeat and notification adapter
 - End-to-end agent workflow test
 - Orgo deployment manifest
+- Reconciliation of September outreach, meetings, and stale deployment claims
+- Confirmed paid discovery sponsor, scope, and budget route
+- POPIA/data-processing and counterparty screening record
 
 ## Safety blockers
 
@@ -43,13 +50,16 @@ Current plan: `docs/BOOTSTRAP_PLAN.md` (10–23 Sep 2026)
 
 | Priority | Work item | Owner | Status | Evidence |
 | --- | --- | --- | --- | --- |
-| P0 | Inventory existing Buzz agents for the group | Unassigned | Blocked (no Buzz API) | |
-| P0 | Import and catalogue Eswatini strategy sources | Rio | Starts Thu 10 Sep | |
-| P0 | Prospect tracker with qualification gates | Rio | Starts Sat 12 Sep | |
-| P0 | Confirm or kill 28 Sep–3 Oct travel window | Tumelo / Keenan | Decision due Mon 21 Sep | |
-| P0 | Build country dashboard shell and map | Unassigned | Not this fortnight | |
-| P1 | Implement event log and notification router | Unassigned | Not started | |
-| P1 | Add persistent knowledge graph | Unassigned | Not started | |
-| P1 | Prove one cross-agent workflow | Unassigned | Not started | |
-| P2 | Prepare Orgo deployment manifest | Unassigned | Not started | |
+| P0 | Reconcile September actions and evidence | Tumelo / Keenan | Not started | `docs/STRATEGY.md` |
+| P0 | Reconfirm field lead and decision owner | Tumelo / Keenan | Not started | Written decision |
+| P0 | Qualify five priority organisations | Keenan | Not started | Prospect tracker with five gates |
+| P0 | Select one discovery sponsor and backup | Tumelo / Keenan | Blocked by qualification | Sponsor confirmation |
+| P0 | Cost the four-week discovery offer | Commercial / FinOps | Not started | Approved pricing model |
+| P1 | Inventory and verify Buzz agent identities | FDE | Blocked (no verified API/auth) | Connection test |
+| P1 | Verify Buzz protocol and exact group permissions | FDE | Blocked by API/auth documentation | Protocol test |
+| P1 | Deploy governed Orgo staging workspace | FDE / Risk | Not started | Acceptance evidence |
+| P1 | Prove one cross-agent workflow | FDE / Agent lead | Not started | Recorded workflow + audit log |
+| P1 | Complete POPIA and security pack | Risk | Not started | Approved pack |
+| P2 | Build client dashboard after workflow proof | Product / FDE | Not started | Tested dashboard |
+| P2 | Prepare production deployment manifest | FDE | Not started | Deployment review |
 

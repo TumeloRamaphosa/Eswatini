@@ -27,6 +27,9 @@ agent activity, decisions requiring approval, notifications, and runtime health.
 ## Repository map
 
 - `docs/PROJECT_SCOPE.md` - authoritative programme scope and boundaries
+- `docs/STRATEGY.md` - current November 2026 country strategy and execution reset
+- `docs/SOURCE_REGISTER.md` - source provenance and evidence status
+- `docs/DEPLOYMENT_PLAN.md` - client site, Orgo, Cloudflare, Buzz, Drive and GitHub architecture
 - `docs/ARCHITECTURE.md` - product and runtime architecture
 - `docs/BOOTSTRAP_PLAN.md` - two-week qualify-and-specify plan (10–23 Sep 2026)
 - `agents/manifest.json` - initial country agent roster
@@ -47,7 +50,8 @@ this repository.
 
 ## Current phase
 
-Bootstrap. The Buzz group should inventory existing assets, preserve working
-components, build the country dashboard, connect agents, and prove one complete
-workflow before cloud deployment.
+Validation reset. The September deployment schedules were not verified as
+completed. The immediate objective is to qualify one paid discovery sponsor,
+prove one governed agent workflow in staging, and package a 60-day pilot before
+any production or physical-infrastructure commitment.
 
